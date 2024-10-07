@@ -1,10 +1,10 @@
-#About Me
+##About Me
 I am currently pursuing a Master's in Information Systems with 2 years of entrepreneurial and corporate experience in the Fintech and Healthcare domains. My passion lies in Product and Software Lifecycle Management, and hence I am a Certified Scrum Product Owner as well as Scrum Master.
 I thrive in developing innovative solutions that mitigate risks, enable impactful decision-making, and bring creative ideas to life.
 
 In addition to my professional pursuits, I am also a dedicated Professional Photographer and Teacher, constantly blending creativity with structure in everything I do. I consider myself a natural leader, a quick thinker, and someone who excels in organization and problem-solving. Let's create and innovate together!
 
-#Leadership Experiences 
+##Leadership Experiences 
  2024
  Certified Scrum Product Owner
  Certified Scrum Master
